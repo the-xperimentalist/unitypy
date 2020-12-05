@@ -1,0 +1,9 @@
+certifi==2020.11.8
+click==7.1.2
+dlib @ file:///D:/bld/dlib_1602513921653/work
+face-recognition @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_1600102073710/work
+face-recognition-models @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_models_1595707436534/work
+numpy @ file:///D:/bld/numpy_1604946150193/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow @ file:///D:/bld/pillow_1604748899638/work
+wincertstore==0.2
