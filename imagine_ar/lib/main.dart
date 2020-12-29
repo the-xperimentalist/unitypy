@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:vector_math/vector_math_64.dart' as vector;
 
 import 'ar.dart';
+import 'arnext.dart';
 
 void main() {
   runApp(MyApp());
@@ -56,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       // _counter++;
     // });
-    Navigator.of(context).push(MaterialPageRoute(builder: (_)=>ArPage()));
+    Navigator.of(context).push(MaterialPageRoute(builder: (_)=>NextArPage()));
   }
 
   @override
